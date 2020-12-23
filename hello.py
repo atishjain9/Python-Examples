@@ -1,5 +1,3 @@
 print("Hello, Welcome to Python Classes by Atish Jain")
-print("New Line Added in the code")
-print("One more Line Added")
-
-print("this Line is Added for 8-9 python Batch")
+print("Hiii Aryan and Akaksh....Practice Pyhton Well, Its Very Important for 2021")
+print("This my new line of code")
